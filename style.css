@@ -20,9 +20,13 @@ li{
 
 a {
     text-decoration: overline;
-    color:rgb(73, 56, 44) ;
+    color:white;
 }
 
-a:before{
-    color: rgb(73, 56, 44) ;
+a:link {
+    background-color: rgb(73, 56, 44);
+}
+a:hover {
+    background-color: white;
+    color:  rgb(73, 56, 44);
 }
