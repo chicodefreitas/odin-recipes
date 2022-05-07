@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+
+
+h1{
+    background-color: rgb(73, 56, 44);
+    color: whitesmoke;
+    font-size: 50px;
+    width: 30%;
+}
+
+li{
+    text-align: center;
+    list-style: none;
+}
+
+a {
+    text-decoration: overline;
+    color:rgb(73, 56, 44) ;
+}
+
+a:before{
+    color: rgb(73, 56, 44) ;
+}
